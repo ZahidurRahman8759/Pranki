@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+p{
+    color: green;
+    font-size: 2rem;
+    text-align: center;
+}
+img{
+    width: 300px;
+
+    
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+body{
+    height: 100vh;
+    display: flex;
+    /* flex-direction: column;! */
+    justify-content: center;
+    align-content: center;
+    background-color: hotpink;
+}
+
+a {
+    color: azure;
+}
